@@ -1,3 +1,3 @@
 def hello(message) {
-    print message
+    echo "HELLO: ${message}"
 }
